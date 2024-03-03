@@ -1,0 +1,28 @@
+{
+  "name": "utilx",
+  "version": "1.0.0",
+  "description": "UtilX CLI",
+  "main": "main.js",
+  "scripts": {
+    "build": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvishok/utilx.git"
+  },
+  "keywords": [
+    "utilx",
+    "feature",
+    "utilx",
+    "cli"
+  ],
+  "author": "Vishok M",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mvishok/utilx/issues"
+  },
+  "homepage": "https://github.com/mvishok/utilx#readme",
+  "dependencies": {
+    "yargs": "^17.7.2"
+  }
+}
