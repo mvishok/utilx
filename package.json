@@ -13,7 +13,6 @@
   "keywords": [
     "utilx",
     "feature",
-    "utilx",
     "cli"
   ],
   "author": "Vishok M",
@@ -23,6 +22,6 @@
   },
   "homepage": "https://github.com/mvishok/utilx#readme",
   "dependencies": {
-    "yargs": "^17.7.2"
+    "commander": "^12.0.0"
   }
 }
